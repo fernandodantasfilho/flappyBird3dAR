@@ -1,6 +1,13 @@
 # FlappyBird3dAR
 
-![GitHub Logo](banner.png)
+## FlappyBird3d
+
+![GitHub Logo](banner1.png)
+
+
+# FlappyBird3dAR
+
+![GitHub Logo](banner2.png)
 
 Game developed in Unity3D, based on an Augmented Reality course.
 To play in Augmented Reality, you need 2 steps:
